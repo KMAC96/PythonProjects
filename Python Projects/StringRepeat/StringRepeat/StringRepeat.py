@@ -1,0 +1,4 @@
+#MAKE THE STRING REPEAT MULTIPLE TIMES
+
+string = ' BOLTS NATION'
+print(string*10)

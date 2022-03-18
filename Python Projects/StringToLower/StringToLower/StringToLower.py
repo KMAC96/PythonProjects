@@ -1,0 +1,4 @@
+#STRINGISLOWER FUNCTION
+
+string = "THIS ENTIRE SENTENCE WILL BE LOWERCASE"
+print(string.lower())
